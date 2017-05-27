@@ -1,0 +1,90 @@
+Hello Everyone!
+
+Welcome to Mongo Db session:
+===============================
+
+
+
+
+For Audio, please connect through Skype Conference Call:
+
+Join by phone
+===============
+Dial:6627 (India)
+Conference ID: 829120341 
+
+
+or login via skype
+==================
+You can see skype link in your invitation
+
+
+
+please login this conference for audio, in adobe we can not here me.
+As such i have not seen anyone logged in conference.
+
+
+in case you have any queries please post it on chat window in Abobe.
+
+
+Please refer below link:
+==========================
+https://github.com/Training2017/mongodb_training.git
+
+
+https://www.mongodb.com/download-center#community
+
+
+
+D:\Program Files\Python35\Scripts\;D:\Program Files\Python35\;C:\ProgramData\Oracle\Java\javapath;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\CapgeminiScripts\Support Tools\;C:\Program Files (x86)\Common Files\Lenovo;C:\Program Files (x86)\CloudFoundry;%JAVA_HOME%\bin;%MAVEN_HOME%\bin;C:\Program Files\Git\cmd;%GRADLE_HOME%\bin;;d:\ProgramData\Anaconda3;d:\ProgramData\Anaconda3\Scripts;d:\ProgramData\Anaconda3\Library\bin;%GIT_HOME%\bin\git.exe;D:\Program Files\nodejs\;C:\Program Files\MongoDB\Server\3.2\bin;D:\Program Files\Amazon\AWSCLI\
+
+
+
+set path=.;C:\Program Files\MongoDB\Server\3.2\bin;
+
+
+
+Task:
+========
+1. Download Mongo DB 
+https://www.mongodb.com/download-center#community
+
+
+
+
+2. Set Environment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
